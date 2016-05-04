@@ -4,7 +4,7 @@ adjectives = ['Neutral', 'Future', 'Mad', 'Bright', 'Another', 'Red', 'Revolving
 
 flex = ['Magic', 'Control', 'Analog', 'Forest', 'Chaos', 'Iron', 'Girl', 'Boy', 'Assault', 'Social', 'Colour', 'Mortal', 'Jazz', 'Chemical', 'Midnight', 'Mountain', 'River', 'Hellfire']
 
-nouns = ['Hotel', 'Sister', 'Fire', 'Mission', 'Club', 'Shelter', 'Day', 'Rope', 'Orchestra', 'Dream', 'Union', 'Winter', 'Cult', 'Gang', 'Group', 'Incorporated', 'Crew', 'Clan', 'Experience']
+nouns = ['Hotel', 'Sister', 'Fire', 'Mission', 'Club', 'Shelter', 'Day', 'Society', 'Orchestra', 'Dream', 'Union', 'Winter', 'Cult', 'Gang', 'Group', 'Incorporated', 'Crew', 'Clan', 'Experience']
 
 def generatename():
     first = (random.choice(adjectives))
